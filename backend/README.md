@@ -1,7 +1,5 @@
 # Coffee Shop Backend
 
-https://dev-xmqlyfwm6yku1khd.us.auth0.com/authorize?audience=coffee&response_type=token&client_id=eQGYwft6060XsKVj7c4uO72jAHdsEaFI&redirect_uri=https://127.0.0.1:5000/login-outcome
-
 ## Getting Started
 
 ### Installing Dependencies
