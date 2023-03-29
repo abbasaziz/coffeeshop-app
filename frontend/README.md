@@ -40,7 +40,7 @@ Ionic ships with a useful development server which detects changes and transpile
 ionic serve
 ```
 
-> _tip_: Do not use **ionic serve** in production. Instead, build Ionic into a build artifact for your desired platforms.
+> _tip_: Do not use **ionic serve** in production mode. Instead, build Ionic into a build artifact for your desired platforms.
 > [Checkout the Ionic docs to learn more](https://ionicframework.com/docs/cli/commands/build)
 
 ## Key Software Design Relevant to Our Coursework
